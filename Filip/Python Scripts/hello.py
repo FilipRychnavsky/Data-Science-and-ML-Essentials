@@ -10,7 +10,12 @@ Hans Fangohr, University of Southampton, UK"""
 
 def hello():
     """Print "Hello World" and return None"""
+    
+    #print("laters World")
     print("Hello World")
+    #print("Good by World")
+    return None    
+
 
 # main program starts here
 hello()
